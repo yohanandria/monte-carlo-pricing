@@ -1,1 +1,1 @@
-# monte-carlo-pricing
+# monte-carlo-option-pricing
